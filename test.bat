@@ -1,1 +1,1 @@
-ech 'tested'
+echo 'tested'
